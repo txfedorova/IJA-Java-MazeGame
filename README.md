@@ -78,7 +78,3 @@ Generate Javadoc with:
 ```bash
 mvn javadoc:javadoc
 ```
-
-## Notes
-
-This was a university team project for IJA 2022/23. The original source code, project documentation and coursework files are kept unchanged in the `mazegame/` directory; this top-level README was added later to make the repository easier to understand from GitHub.
