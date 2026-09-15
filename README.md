@@ -2,6 +2,8 @@
 
 Java 17 / JavaFX university team project implementing a Pac-Man-style maze game with file-based maps, moving ghosts, gameplay logging and replay support.
 
+This repository is a fork of the original team repository and preserves the shared coursework implementation.
+
 ## Project overview
 
 The player navigates a maze from the starting position to the target while avoiding ghosts. Maps are loaded from files, and game sessions can be saved to log files and replayed later.
