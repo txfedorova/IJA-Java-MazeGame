@@ -1,4 +1,4 @@
-# MazeGame
+# IJA / Java Maze Game
 
 Java 17 / JavaFX university team project implementing a Pac-Man-style maze game with file-based maps, moving ghosts, gameplay logging and replay support.
 
